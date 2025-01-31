@@ -1,3 +1,3 @@
 > **`Elfak`**
 >
-> 🔹 [bazePodataka](https://github.com/openSourceOverlord/bazePodataka)
+> ▶️ [bazePodataka](https://github.com/openSourceOverlord/bazePodataka)
